@@ -1,5 +1,5 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
+build.txt
 # dependencies
 node_modules/
 
@@ -9,6 +9,7 @@ dist/
 web-build/
 expo-env.d.ts
 
+.vscode/
 # Native
 .kotlin/
 *.orig.*
